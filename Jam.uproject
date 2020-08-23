@@ -6,10 +6,10 @@
 	"Plugins": [
 		{
 			"Name": "HoudiniEngine",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
-			"Name": "HoudiniNiagara",
+			"Name": "NiagaraExtras",
 			"Enabled": true
 		}
 	],
